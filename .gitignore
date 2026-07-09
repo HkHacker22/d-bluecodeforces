@@ -1,0 +1,8 @@
+node_modules/
+.agents/
+.claude/
+.gemini/
+.impeccable/
+.opencode/
+Screenshot*.png
+error.log
