@@ -1,13 +1,15 @@
 # Acrylic Codeforces
 
-Premium glassmorphism themes for [Codeforces](https://codeforces.com) with full acrylic UI.
+Premium glassmorphism themes for [Codeforces](https://codeforces.com) with full glass UI.
 
 Choose your flavor:
 
 | Theme | File | Install |
 |---|---|---|
 | **Blue** (Original) | `acrylic-codeforces(blue).user.css` | [Install Blue](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces(blue).user.css) |
-| **Purple** (Violet Cyberpunk) | `acrylic-codeforces.user(purple).css` | [Install Purple](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(purple).css) |
+| **Purple** (Neon Purple) | `acrylic-codeforces.user(purple).css` | [Install Purple](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(purple).css) |
+| **Pink** (Neon Pink) | `acrylic-codeforces.user(pink).css` | [Install Pink](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(pink).css) |
+| **Green** (Neon Hacker) | `acrylic-codeforces.user(green).css` | [Install Green](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(green).css) |
 
 ## Screenshots
 
@@ -32,6 +34,8 @@ Choose your flavor:
 2. Click a link below to install:
    - [Install Blue Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces(blue).user.css)
    - [Install Purple Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(purple).css)
+   - [Install Pink Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(pink).css)
+   - [Install Green (Hacker) Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(green).css)
 
 3. The Stylus extension will open a preview page. Click **Install Style**.
 
@@ -44,7 +48,7 @@ Choose your flavor:
 
 2. Open Stylus extension → **Manage** → **Write New Style**
 
-3. Copy the contents of your chosen theme file (`acrylic-codeforces(blue).user.css` or `acrylic-codeforces.user(purple).css`) into the editor
+3. Copy the contents of your chosen theme file into the editor
 
 4. Set **Applies to** to `URLs on the domain: codeforces.com`
 

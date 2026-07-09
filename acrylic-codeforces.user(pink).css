@@ -1,8 +1,8 @@
 ﻿/* ==UserStyle==
-@name           Glass Codeforces - Neon Purple
+@name           Glass Codeforces - Neon Pink
 @namespace      github.com/acrylic-codeforces
 @version        2.0.0
-@description    Premium glassmorphism theme for Codeforces with neon purple-pink accents, customizable wallpapers, 10 color presets, and full glass UI
+@description    Premium glassmorphism theme for Codeforces with neon pink accents, customizable wallpapers, 10 color presets, and full glass UI
 @author         Acrylic Themes
 @license        MIT
 
@@ -127,6 +127,7 @@
   }
   #header a:hover {
     color: #d946ef !important;
+    text-shadow: 0 0 8px rgba(217,70,239,0.4) !important;
   }
   #header > div:first-child img,
   ._logo_div img {
@@ -172,13 +173,14 @@
     color: #d946ef !important;
     background: rgba(217,70,239,0.15) !important;
     border-bottom: 2px solid #d946ef !important;
+    text-shadow: 0 0 8px rgba(217,70,239,0.4) !important;
   }
   .second-level-menu {
     background: rgba(255,255,255,0.045) !important;
     backdrop-filter: blur(24px) saturate(1.4) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) !important;
     border: none !important;
-    border-bottom: 1px solid rgba(88,28,135,0.09) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.09) !important;
   }
   .second-level-menu-list {
     background: transparent !important;
@@ -201,6 +203,7 @@
   .second-level-menu-list li.current a {
     color: #d946ef !important;
     font-weight: 600 !important;
+    text-shadow: 0 0 6px rgba(217,70,239,0.3) !important;
   }
   .backLava,
   .backLava .leftLava,
@@ -218,7 +221,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     overflow: hidden !important;
@@ -249,7 +252,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
@@ -258,7 +261,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     overflow: hidden !important;
@@ -268,7 +271,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
   }
@@ -277,7 +280,7 @@
     background: rgba(255,255,255,0.045) !important;
     backdrop-filter: blur(20px) saturate(1.4) !important;
     -webkit-backdrop-filter: blur(20px) saturate(1.4) !important;
-    border-top: 1px solid rgba(88,28,135,0.09) !important;
+    border-top: 1px solid rgba(217,70,239,0.09) !important;
     color: #94a3b8 !important;
   }
   #footer a,
@@ -314,7 +317,7 @@
   .roundbox .caption {
     background: rgba(217,70,239,0.12) !important;
     color: #d946ef !important;
-    border-bottom: 1px solid rgba(88,28,135,0.09) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.09) !important;
     padding: 10px 16px !important;
     font-weight: 600 !important;
     letter-spacing: 0.5px !important;
@@ -330,7 +333,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     overflow: hidden !important;
@@ -340,7 +343,7 @@
   .datatable th {
     background: rgba(217,70,239,0.1) !important;
     color: #e879f9 !important;
-    border-bottom: 1px solid rgba(88,28,135,0.18) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.18) !important;
     padding: 10px 14px !important;
     font-weight: 600 !important;
     text-align: left !important;
@@ -348,7 +351,7 @@
   .datatable td {
     color: #e2e8f0 !important;
     padding: 8px 14px !important;
-    border-bottom: 1px solid rgba(88,28,135,0.054) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.054) !important;
     transition: all 0.3s ease !important;
     background: transparent !important;
   }
@@ -382,7 +385,7 @@
   table.problems td,
   table.problems th {
     color: #e2e8f0 !important;
-    border-bottom: 1px solid rgba(88,28,135,0.054) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.054) !important;
   }
   table.problems tr:hover td {
     background: rgba(217,70,239,0.06) !important;
@@ -405,7 +408,7 @@
   }
   .standings td {
     color: #e2e8f0 !important;
-    border-bottom: 1px solid rgba(88,28,135,0.036) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.036) !important;
   }
   .standings tr:hover td {
     background: rgba(217,70,239,0.05) !important;
@@ -427,23 +430,23 @@
   }
   div.ttypography .bordertable td {
     color: #e2e8f0 !important;
-    border-color: rgba(88,28,135,0.054) !important;
+    border-color: rgba(217,70,239,0.054) !important;
   }
   div.ttypography .bordertable thead th:not(:last-child) {
-    border-right-color: rgba(88,28,135,0.054) !important;
+    border-right-color: rgba(217,70,239,0.054) !important;
   }
   div.ttypography tbody tr:hover td {
     background: rgba(217,70,239,0.06) !important;
   }
   div.ttypography tbody tr:hover th {
     color: #d946ef !important;
-    border-color: rgba(88,28,135,0.054) !important;
+    border-color: rgba(217,70,239,0.054) !important;
   }
   .problem-statement {
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     padding: 24px !important;
@@ -452,7 +455,7 @@
     font-size: 15px !important;
   }
   .problem-statement .header {
-    border-bottom: 1px solid rgba(88,28,135,0.09) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.09) !important;
     padding-bottom: 16px !important;
     margin-bottom: 20px !important;
   }
@@ -491,7 +494,7 @@
   pre,
   pre.prettyprint {
     background: rgba(255,255,255,0.065) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     padding: 16px !important;
@@ -503,7 +506,7 @@
   }
   code.prettyprint {
     background: rgba(255,255,255,0.065) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     padding: 16px !important;
@@ -514,7 +517,7 @@
   }
   pre[id] {
     background: rgba(255,255,255,0.04) !important;
-    border: 1px solid rgba(88,28,135,0.12) !important;
+    border: 1px solid rgba(217,70,239,0.12) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     padding: 16px !important;
@@ -541,7 +544,7 @@
   }
   .source-code {
     background: rgba(255,255,255,0.065) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
   }
@@ -559,7 +562,7 @@
   .sample-test .input,
   .sample-test .output {
     background: rgba(255,255,255,0.05) !important;
-    border: 1px solid rgba(88,28,135,0.15) !important;
+    border: 1px solid rgba(217,70,239,0.15) !important;
     border-radius: 12px !important;
     margin-bottom: 12px !important;
     overflow: hidden !important;
@@ -571,7 +574,7 @@
     padding: 8px 14px !important;
     font-weight: 600 !important;
     font-size: 13px !important;
-    border-bottom: 1px solid rgba(88,28,135,0.054) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.054) !important;
   }
   .sample-test .input pre,
   .sample-test .output pre {
@@ -594,7 +597,7 @@
   #title,
   input[name$="Difficulty"] {
     background: rgba(255,255,255,0.055) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     padding: 8px 12px !important;
@@ -626,7 +629,7 @@
   }
   .SumoSelect {
     background: rgba(255,255,255,0.055) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
   }
@@ -637,14 +640,14 @@
   }
   .SumoSelect .optWrapper {
     background: rgba(10,5,25,0.95) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.4) !important;
   }
   .SumoSelect .optWrapper li.opt {
     background: transparent !important;
     color: #e2e8f0 !important;
-    border-bottom: 1px solid rgba(88,28,135,0.09) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.09) !important;
   }
   .SumoSelect .optWrapper li.opt:hover {
     background: rgba(217,70,239,0.1) !important;
@@ -656,7 +659,7 @@
   }
   .SumoSelect .MultiControls {
     background: rgba(10,5,25,0.92) !important;
-    border-top: 1px solid rgba(88,28,135,0.18) !important;
+    border-top: 1px solid rgba(217,70,239,0.18) !important;
   }
   .SumoSelect .MultiControls p {
     color: #e2e8f0 !important;
@@ -675,7 +678,7 @@
   input._CatalogViewFrame_filter {
     background: rgba(255,255,255,0.055) !important;
     color: #e2e8f0 !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     padding: 8px 12px !important;
     font-size: 14px !important;
@@ -692,7 +695,7 @@
   }
   #past-contests-filter-form {
     background: rgba(255,255,255,0.035) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     padding: 20px !important;
     margin-top: 12px !important;
@@ -700,7 +703,7 @@
   input[type="file"] {
     background: rgba(255,255,255,0.055) !important;
     color: #e2e8f0 !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     padding: 8px 12px !important;
   }
@@ -770,7 +773,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
@@ -793,14 +796,14 @@
   }
   .comment-table {
     background: rgba(255,255,255,0.02) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     margin-bottom: 8px !important;
     overflow: hidden !important;
     transition: all 0.3s ease !important;
   }
   .comment-table:hover {
-    border-color: rgba(88,28,135,0.144) !important;
+    border-color: rgba(217,70,239,0.144) !important;
   }
   .comment-table td {
     background: transparent !important;
@@ -823,13 +826,13 @@
   }
   .avatar {
     border-radius: 50% !important;
-    border: 2px solid rgba(88,28,135,0.18) !important;
+    border: 2px solid rgba(217,70,239,0.18) !important;
   }
   .userbox {
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
@@ -919,7 +922,7 @@
   .pagination a,
   .pagination span {
     background: rgba(255,255,255,0.045) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     padding: 6px 12px !important;
@@ -985,7 +988,7 @@
     background: rgba(255,255,255,0.1) !important;
     backdrop-filter: blur(28px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(28px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 16px 64px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.08) !important;
     border-radius: 16px !important;
     color: #e2e8f0 !important;
@@ -1000,7 +1003,7 @@
     background: rgba(255,255,255,0.1) !important;
     backdrop-filter: blur(28px) saturate(1.4) !important;
     -webkit-backdrop-filter: blur(28px) saturate(1.4) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
   }
@@ -1008,7 +1011,7 @@
   .tooltip {
     background: rgba(10,5,25,0.95) !important;
     backdrop-filter: blur(24px) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 10px !important;
     color: #e2e8f0 !important;
     box-shadow: 0 8px 24px rgba(0,0,0,0.3) !important;
@@ -1019,7 +1022,7 @@
     background: rgba(10,5,25,0.95) !important;
     backdrop-filter: blur(28px) saturate(1.4) !important;
     -webkit-backdrop-filter: blur(28px) saturate(1.4) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3) !important;
     color: #e2e8f0 !important;
@@ -1090,6 +1093,7 @@
     font-weight: 700 !important;
     font-size: 16px !important;
     margin-bottom: 10px !important;
+    text-shadow: 0 0 6px rgba(217,70,239,0.3) !important;
   }
   .tab-content {
     background: transparent !important;
@@ -1100,7 +1104,7 @@
   }
   .spoiler-content {
     background: rgba(255,255,255,0.055) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     padding: 12px !important;
     margin: 8px 0 !important;
@@ -1162,7 +1166,7 @@
   }
   .search-box {
     background: rgba(255,255,255,0.055) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
   }
   .search-box input {
@@ -1179,7 +1183,7 @@
   .calendar td,
   .calendar th {
     color: #e2e8f0 !important;
-    border-color: rgba(88,28,135,0.054) !important;
+    border-color: rgba(217,70,239,0.054) !important;
   }
   .calendar .current-day {
     background: rgba(217,70,239,0.2) !important;
@@ -1194,7 +1198,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     padding: 24px !important;
@@ -1220,7 +1224,7 @@
   .settings-table td,
   .personal-info td {
     color: #e2e8f0 !important;
-    border-color: rgba(88,28,135,0.054) !important;
+    border-color: rgba(217,70,239,0.054) !important;
   }
   .mashup,
   .mashup-table {
@@ -1254,7 +1258,7 @@
   }
   hr {
     border: none !important;
-    border-top: 1px solid rgba(88,28,135,0.09) !important;
+    border-top: 1px solid rgba(217,70,239,0.09) !important;
     margin: 16px 0 !important;
   }
   b,
@@ -1291,7 +1295,7 @@
     color: #e2e8f0 !important;
   }
   fieldset {
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
   }
   legend {
@@ -1304,7 +1308,7 @@
   }
   .status-frame-datatable tr td {
     color: #e2e8f0 !important;
-    border-bottom: 1px solid rgba(88,28,135,0.036) !important;
+    border-bottom: 1px solid rgba(217,70,239,0.036) !important;
   }
   .status-frame-datatable tr:hover td {
     background: rgba(217,70,239,0.05) !important;
@@ -1331,7 +1335,7 @@
   .tutorial-problem,
   .editorial {
     background: rgba(255,255,255,0.035) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     padding: 16px !important;
     color: #e2e8f0 !important;
@@ -1339,7 +1343,7 @@
   .submission-source,
   #sourceCodeTextarea {
     background: rgba(255,255,255,0.065) !important;
-    border: 1px solid rgba(88,28,135,0.09) !important;
+    border: 1px solid rgba(217,70,239,0.09) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
     font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
@@ -1356,7 +1360,7 @@
   }
   .problems-filter-form {
     background: rgba(255,255,255,0.035) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
     padding: 16px !important;
   }
@@ -1376,7 +1380,7 @@
   }
   .roundbox .bottom-links {
     background: transparent !important;
-    border-top: 1px solid rgba(88,28,135,0.054) !important;
+    border-top: 1px solid rgba(217,70,239,0.054) !important;
   }
   .notificationMessage,
   .notification {
@@ -1391,7 +1395,7 @@
   img.photo,
   .userpic {
     border-radius: 12px !important;
-    border: 2px solid rgba(88,28,135,0.18) !important;
+    border: 2px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
   }
   .datatable .contests-table,
@@ -1406,7 +1410,7 @@
     font-size: 18px !important;
   }
   iframe.wysiwyg {
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     border-radius: 12px !important;
   }
   .announcement {
@@ -1428,7 +1432,7 @@
     background: rgba(255,255,255,0.035) !important;
     backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
     -webkit-backdrop-filter: blur(24px) saturate(1.4) brightness(1.05) !important;
-    border: 1px solid rgba(88,28,135,0.18) !important;
+    border: 1px solid rgba(217,70,239,0.18) !important;
     box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
     color: #e2e8f0 !important;
