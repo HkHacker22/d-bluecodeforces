@@ -13,9 +13,21 @@ Choose your flavor:
 
 ## Screenshots
 
-| Home | Profile | Contest List |
-|---|---|---|
-| ![Home](screenshots/problem-page.png) | ![Profile](screenshots/problem-list.png) | ![Contest List](screenshots/contest-list.png) |
+### Blue
+
+![Blue 1](screenshots/b1.png) | ![Blue 2](screenshots/b2.png) | ![Blue 3](screenshots/b3.png) | ![Blue 4](screenshots/b4.png)
+
+### Purple (Violet)
+
+![Purple 1](screenshots/v1.png) | ![Purple 2](screenshots/v2.png) | ![Purple 3](screenshots/v3.png) | ![Purple 4](screenshots/v4.png)
+
+### Pink
+
+![Pink 1](screenshots/p1.png) | ![Pink 2](screenshots/p2.png) | ![Pink 3](screenshots/p3.png) | ![Pink 4](screenshots/p4.png)
+
+### Green (Hacker)
+
+![Green 1](screenshots/g1.png) | ![Green 2](screenshots/g2.png) | ![Green 3](screenshots/g3.png) | ![Green 4](screenshots/g4.png)
 
 
 ## Installation
