@@ -1,21 +1,13 @@
 # Acrylic Codeforces
 
-Premium glassmorphism theme for [Codeforces](https://codeforces.com) with liquid glass effects, customizable wallpapers, 10 color presets, and full acrylic UI.
+Premium theme for [Codeforces](https://codeforces.com) full acrylic UI.
 
 ## Screenshots
 
-| Problem Page | Problem List | Contest List |
+| Home | Profile | Contest List |
 |---|---|---|
-| ![Problem Page](screenshots/problem-page.png) | ![Problem List](screenshots/problem-list.png) | ![Contest List](screenshots/contest-list.png) |
+| ![Home](screenshots/problem-page.png) | ![Profile](screenshots/problem-list.png) | ![Contest List](screenshots/contest-list.png) |
 
-## Features
-
-- **Liquid Glass UI** — frosted glass panels with blur, saturation, and dynamic lighting
-- **10 Color Presets** — Dark Blue, Cyberpunk, Purple Haze, ROG Red, Glass White, AMOLED Black, Nord, Catppuccin Mocha, Dracula, Tokyo Night
-- **Custom Wallpaper** — use any image URL as background
-- **Built-in Wallpapers** — gradient, mountains, deep space, city night, dark forest, ocean, abstract
-- **Adjustable Effects** — blur amount, glass opacity, border opacity, saturation, brightness, shadow intensity
-- **Toggle Modes** — frosted mode, full acrylic, pure transparent, rounded corners, animations, compact mode
 
 ## Installation
 
