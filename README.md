@@ -1,6 +1,13 @@
 # Acrylic Codeforces
 
-Premium theme for [Codeforces](https://codeforces.com) full acrylic UI.
+Premium glassmorphism themes for [Codeforces](https://codeforces.com) with full acrylic UI.
+
+Choose your flavor:
+
+| Theme | File | Install |
+|---|---|---|
+| **Blue** (Original) | `acrylic-codeforces(blue).user.css` | [Install Blue](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces(blue).user.css) |
+| **Purple** (Violet Cyberpunk) | `acrylic-codeforces.user(purple).css` | [Install Purple](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(purple).css) |
 
 ## Screenshots
 
@@ -22,8 +29,9 @@ Premium theme for [Codeforces](https://codeforces.com) full acrylic UI.
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
    - [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
 
-2. Click the link below to install:
-   - [Install Acrylic Codeforces](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user.css)
+2. Click a link below to install:
+   - [Install Blue Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces(blue).user.css)
+   - [Install Purple Theme](https://raw.githubusercontent.com/HkHacker22/d-bluecodeforces/main/acrylic-codeforces.user(purple).css)
 
 3. The Stylus extension will open a preview page. Click **Install Style**.
 
@@ -36,7 +44,7 @@ Premium theme for [Codeforces](https://codeforces.com) full acrylic UI.
 
 2. Open Stylus extension → **Manage** → **Write New Style**
 
-3. Copy the contents of `acrylic-codeforces.user.css` into the editor
+3. Copy the contents of your chosen theme file (`acrylic-codeforces(blue).user.css` or `acrylic-codeforces.user(purple).css`) into the editor
 
 4. Set **Applies to** to `URLs on the domain: codeforces.com`
 
@@ -44,7 +52,7 @@ Premium theme for [Codeforces](https://codeforces.com) full acrylic UI.
 
 ## Customization
 
-After installing, click the Stylus icon → gear icon next to "Acrylic Codeforces" to open settings:
+After installing, click the Stylus icon → gear icon next to the theme name to open settings:
 
 | Setting | Description |
 |---|---|
